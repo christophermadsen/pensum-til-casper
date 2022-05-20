@@ -1,4 +1,4 @@
-* Introduction til Programmering
+* Introduktion til Programmering
 
 Alle ressourcer er gratis eller tilbyder en stor del som er.
 
@@ -137,3 +137,7 @@ bog selv hvis man ikke er interesseret i at lære programmering.
 
 Et dansk link:
 https://www.saxo.com/dk/grokking-algorithms_aditya-bhargava_paperback_9781617292231
+
+* BONUS: Humor
+https://www.reddit.com/r/ProgrammerHumor
+https://xkcd.com/
